@@ -6,7 +6,7 @@ import org.notification.templateservice.validation.ValidationResult;
 import org.notification.templateservice.validation.model.NotificationTemplate;
 import org.springframework.stereotype.Component;
 
-// TODO: Impl pending
+//TODO: Implement the mechanism for SMS template
 @Component
 public class SmsTemplateValidator implements TemplateValidator {
 
